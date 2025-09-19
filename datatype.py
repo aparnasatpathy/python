@@ -1,3 +1,6 @@
+# Code should be in intendation
+
+
 a=5
 print(type(a))
 
@@ -9,4 +12,5 @@ print(type(c))
 
 d="Hello world"
 print(d)
+
 print(type(d))
